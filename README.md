@@ -1,11 +1,31 @@
-# Real Time Face Recognition
+# Real-Time Face Recognition System
 
-A real-time face recognition system built with Python and OpenCV.
+A real-time face recognition system built with Python and OpenCV that can detect and recognize faces in real-time using your webcam.
 
-![gif](media/gif.gif)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![OpenCV](https://img.shields.io/badge/opencv-4.x-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+![Demo](media/gif.gif)
+
+## Features
+
+- Real-time face detection and recognition
+- Multiple face support
+- Configurable settings
+- Easy to use interface
+- High accuracy recognition
+- Support for adding new faces
 
 ## Installation
 
+1. Clone the repository:
+```bash
+git clone https://github.com/heymehu/Real-Time-Face-Recognition-System.git
+cd Real-Time-Face-Recognition-System
+```
+
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -86,5 +106,18 @@ python src/face_recognizer.py
 ├── names.json           # Name-ID mappings
 └── trainer.yml          # Trained model
 ```
+
+## Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- OpenCV for the face detection and recognition algorithms
+- Python community for the amazing tools and libraries
 
 
