@@ -4,7 +4,6 @@ A real-time face recognition system built with Python and OpenCV that can detect
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![OpenCV](https://img.shields.io/badge/opencv-4.x-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 ![Demo](media/gif.gif)
 
@@ -110,10 +109,6 @@ python src/face_recognizer.py
 ## Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
